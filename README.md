@@ -35,7 +35,6 @@
 🎨 interested in art & design
 💻 currently working with Python
 ⚖️ interested in law & criminal justice
-🥎 softball
 📚 always working on something new
 🌷 trying to make my projects feel like *me*
 
